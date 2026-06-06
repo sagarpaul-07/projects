@@ -11,13 +11,13 @@ The dashboard transforms raw transactional data into actionable business insight
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview]([Screenshots/Overview%20Dashboard.png])
+![Executive Overview](Screenshots/overview-dashboard.png)
 
 ### Product Analysis
-![Product Analysis]([Screenshots/Product%20Analysis.png])
+![Product Analysis](Screenshots/product-analysis.png)
 
 ### Customer Analysis
-![Customer Analysis]([Screenshots/Customer%20Analysis.png])
+![Customer Analysis](Screenshots/customer-analysis.png)
 
 
 ## Business Problem
