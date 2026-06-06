@@ -8,6 +8,17 @@ The dashboard transforms raw transactional data into actionable business insight
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Overview](Screenshots/Overview%20Dashboard.png)
+
+### Product Analysis
+![Product](Screenshots/Product%20Analysis.png)
+
+### Customer Analysis
+![Customer](Screenshots/Customer%20Analysis.png)
+
 ## Business Problem
 
 Retail businesses generate large volumes of sales data across products, customers, and regions. Without proper analysis, identifying profit drivers, loss-making products, and customer trends becomes challenging.
