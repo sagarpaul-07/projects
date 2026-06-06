@@ -11,13 +11,13 @@ The dashboard transforms raw transactional data into actionable business insight
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview]([Screenshots/Overview%20Dashboard.png](https://github.com/sagarpaul-07/projects/blob/ef548f778e1de42431723eb595c147e82f761268/Screenshot%202026-06-06%20232646.png))
+![Executive Overview]([Screenshots/Overview%20Dashboard.png])
 
 ### Product Analysis
-![Product Analysis]([Screenshots/Product%20Analysis.png](https://github.com/sagarpaul-07/projects/blob/ef548f778e1de42431723eb595c147e82f761268/Screenshot%202026-06-06%20232706.png))
+![Product Analysis]([Screenshots/Product%20Analysis.png])
 
 ### Customer Analysis
-![Customer Analysis]([Screenshots/Customer%20Analysis.png](https://github.com/sagarpaul-07/projects/blob/ef548f778e1de42431723eb595c147e82f761268/Screenshot%202026-06-06%20233011.png))
+![Customer Analysis]([Screenshots/Customer%20Analysis.png])
 
 
 ## Business Problem
